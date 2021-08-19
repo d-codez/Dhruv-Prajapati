@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @PoleStar786
-- 👀 I’m interested in ?
-- 🌱 I’m currently learning ?
-- 💞️ I’m looking to collaborate on ?
-- 📫 How to reach me ?
+- 👋 Hi, I’m Dhruv Prajapati
+- 👀 I’m interested in Web Developement.
+- 🌱 I’m currently learning technologies for the web developement. 
+- 📫 How to reach me : prajapatidhruv1110@gmail.com
 
 <!---
 PoleStar786/PoleStar786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
